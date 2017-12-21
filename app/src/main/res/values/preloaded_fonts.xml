@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+
+        <item>res/font/quicksand</item>
+        <item>res/font/quicksand_bold</item>
+        <item>res/font/quicksand_light</item>
+        <item>res/font/quicksand_medium</item>
+    </array>
+</resources>
